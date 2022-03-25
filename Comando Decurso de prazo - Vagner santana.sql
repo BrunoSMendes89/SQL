@@ -1,48 +1,5 @@
 SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
-/*select * from lancamentoswfdecursosselect 
 
- 
-
-select * from IdentificacoesApServer
-
- 
-
-sp_help LogsContratadosCalculos
-
- 
-
-SELECT distinct LCC_CdiLogTransacao from LogsContratadosCalculos
-
- 
-
-select * from 
-
- 
-
-select * from LogsTransacoes where LTR_CdiLogTransacao in (23924295, 23924700)
-
- 
-
-select * from LancamentosWF where 84970
-
- 
-
-select * from LancamentosWFDecursos
-
- 
-
-select * from Logs where LOS_CdiLog = 3764870
-
- 
-
-select * from InstanciasApServer where ECV_CdiInstanciaApServer = 2165
-
- 
-
-select * from 
-*/
-
- 
 
 SELECT DISTINCT
  PFT_CdiLancamentoWF,
